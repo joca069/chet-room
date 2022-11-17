@@ -35,8 +35,9 @@ This will start server on port 8080 and create database (if it doesnt already ex
 
 ![](https://github.com/joca069/chet-room/blob/master/screenshots/chet.png?raw=true)
 
+* Passwords are salted and hashed inside database
 
-
+![](https://github.com/joca069/chet-room/blob/master/screenshots/database.png?raw=true)
 
 
 
