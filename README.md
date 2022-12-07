@@ -1,6 +1,10 @@
 
 # chet-room
 
+"Chet room" is social platform where users can make/join chet rooms
+
+
+
 
 >node main.js
 
